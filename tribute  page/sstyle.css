@@ -1,0 +1,59 @@
+.con_outline { 
+    margin-top: 20px;
+    margin-bottom: 30px;
+      background-color: #d7d6e0;
+}
+.jum_align{
+    background-image: url(http://theslowroad.org/wp/wp-content/blogs.dir/1/files/village-life/villagelife-1.jpg);
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img_align {
+    display: block;
+    outline-style : solid;
+    outline-color : #0D0A68;
+    outline-width : 5px;
+    margin: auto;
+    width: 50%;
+}
+.img_gallery{
+   display: block;
+   margin: auto;
+   padding-top: 30px;
+   background-color: #afd3f6;
+}
+ul.b{
+   
+   list-style-position: inside;
+   background-color: #b2b3b9;
+}
+ul.c{
+   list-style: bullet;
+   list-style-position: inside;
+   background-color: #b2b3b9;
+}
+ul.a {
+   list-style: arrow;
+   list-style-position: inside;
+}
+.headong-style{
+   color:white; 
+   text-shadow: 2px 2px 5px black, 0 0 25px rgb(7, 7, 7), 0 0 15px rgb(19, 19, 21);
+}
+.heading-style{
+   color:white; 
+   text-shadow: 2px 2px 5px black, 0 0 25px rgb(7, 7, 7), 0 0 15px rgb(19, 19, 21);
+}
+.link-style{
+   color: white; 
+   text-shadow: 2px 2px 5px black, 0 0 25px rgb(7, 7, 8), 0 0 15px black;
+   text-decoration: underline;
+}
+
+hr{
+   display: block;
+   border-width: 4px;
+}
